@@ -1,15 +1,8 @@
 DeepSeek
-特斯拉
-马斯克
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -23,3 +16,10 @@ sora
 claude
 Anthropic
 
+机器人
+最新发展
+
+纳斯达克
+股市
+
+上证指数
